@@ -1,6 +1,6 @@
 # ConTex-Human
 
-[**Paper**](https://arxiv.org/abs/) | [**Project Page**](https://gaoxiangjun.github.io/contex_human/) 
+[**Paper**](https://arxiv.org/abs/2311.17123) | [**Project Page**](https://gaoxiangjun.github.io/contex_human/) 
 <!-- | [**Youtube video**](https://gaoxiangjun.github.io/contex_human/) -->
 
 Official implementation of **ConTex-Human**: Free-View Rendering of Human from a Single Image with Texture-Consistent Synthesis. **Code will release.**
