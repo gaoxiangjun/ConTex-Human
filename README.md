@@ -41,10 +41,12 @@ https://github.com/MrTornado24/DreamCraft3D/assets/45503891/ead40f9b-d7ee-4ee8-8
 ## BibTeX
 
 ```bibtex
-@article{contex-human,
-author    = {Xiangjun Gao and Xiaoyu Li and Chaopeng Zhang and Qi Zhang and Yanpei Cao and Ying Shan and Long Quan},
-title     = {Contex-Human},
-journal   = {arxiv:2312.},
-year      = {2023},
+@misc{gao2023contexhuman,
+      title={ConTex-Human: Free-View Rendering of Human from a Single Image with Texture-Consistent Synthesis}, 
+      author={Xiangjun Gao and Xiaoyu Li and Chaopeng Zhang and Qi Zhang and Yanpei Cao and Ying Shan and Long Quan},
+      year={2023},
+      eprint={2311.17123},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
