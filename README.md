@@ -1,11 +1,17 @@
 # ConTex-Human
 
-[**Paper**](https://arxiv.org/abs/2311.17123) | [**Project Page**](https://gaoxiangjun.github.io/contex_human/) 
-<!-- | [**Youtube video**](https://gaoxiangjun.github.io/contex_human/) -->
+<p align="center">
+        <a href="https://gaoxiangjun.github.io/contex_human/paper/ConTex_Human.pdf"><img src='https://img.shields.io/badge/Paper-ConTex_Human-red' alt='Paper PDF'></a>
+        <a href="https://arxiv.org/abs/2311.17123"><img src='https://img.shields.io/badge/arXiv-ConTex_Human-blue' alt='Paper PDF'></a>
+        <a href='https://gaoxiangjun.github.io/contex_human/'><img src='https://img.shields.io/badge/Project_Page-ConTex_Human-green' alt='Project Page'></a>
+  </p>
 
-Official implementation of **ConTex-Human**: Free-View Rendering of Human from a Single Image with Texture-Consistent Synthesis. **Code will release.**
+<!--[**Paper**](https://arxiv.org/abs/2311.17123) | [**Project Page**](https://gaoxiangjun.github.io/contex_human/) 
+ | [**Youtube video**](https://gaoxiangjun.github.io/contex_human/) -->
 
-[Xiangjun Gao](), [Xiaoyu Li](https://xiaoyu258.github.io/), [Chaopeng Zhang](), [Qi Zhang](https://qzhang-cv.github.io/), [Yanpei Cao](https://yanpei.me/), [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=en), [Long Quan](https://scholar.google.com/citations?hl=en&user=ZMLhZJ8AAAAJ&view_op=list_works)
+Official implementation of **ConTex-Human**: Free-View Rendering of Human from a Single Image with Texture-Consistent Synthesis. **Code will be released.**
+
+[Xiangjun Gao]() · [Xiaoyu Li](https://xiaoyu258.github.io/) · [Chaopeng Zhang](), [Qi Zhang](https://qzhang-cv.github.io/) · [Yanpei Cao](https://yanpei.me/) · [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=en) · [Long Quan](https://scholar.google.com/citations?hl=en&user=ZMLhZJ8AAAAJ&view_op=list_works)
 
 **HKUST<sup>1</sup>, Tencent AI Lab <sup>2</sup>**
 
