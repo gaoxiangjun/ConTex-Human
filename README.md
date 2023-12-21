@@ -11,7 +11,7 @@
 
 Official implementation of **ConTex-Human**: Free-View Rendering of Human from a Single Image with Texture-Consistent Synthesis. **Code will be released.**
 
-[Xiangjun Gao]() · [Xiaoyu Li](https://xiaoyu258.github.io/) · [Chaopeng Zhang](), [Qi Zhang](https://qzhang-cv.github.io/) · [Yanpei Cao](https://yanpei.me/) · [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=en) · [Long Quan](https://scholar.google.com/citations?hl=en&user=ZMLhZJ8AAAAJ&view_op=list_works)
+[Xiangjun Gao](https://scholar.google.com/citations?user=qgdesEcAAAAJ&hl=en&oi=sra) · [Xiaoyu Li](https://xiaoyu258.github.io/) · [Chaopeng Zhang](), [Qi Zhang](https://qzhang-cv.github.io/) · [Yanpei Cao](https://yanpei.me/) · [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=en) · [Long Quan](https://scholar.google.com/citations?hl=en&user=ZMLhZJ8AAAAJ&view_op=list_works)
 
 **HKUST<sup>1</sup>, Tencent AI Lab <sup>2</sup>**
 
