@@ -9,6 +9,8 @@
 <!--[**Paper**](https://arxiv.org/abs/2311.17123) | [**Project Page**](https://gaoxiangjun.github.io/contex_human/) 
  | [**Youtube video**](https://gaoxiangjun.github.io/contex_human/) -->
 
+**Accepted as a CVPR 2024 Paper.**
+
 Official implementation of **ConTex-Human**: Free-View Rendering of Human from a Single Image with Texture-Consistent Synthesis. **Code will be released.**
 
 [Xiangjun Gao](https://scholar.google.com/citations?user=qgdesEcAAAAJ&hl=en&oi=sra) · [Xiaoyu Li](https://xiaoyu258.github.io/) · [Chaopeng Zhang](), [Qi Zhang](https://qzhang-cv.github.io/) · [Yanpei Cao](https://yanpei.me/) · [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=en) · [Long Quan](https://scholar.google.com/citations?hl=en&user=ZMLhZJ8AAAAJ&view_op=list_works)
